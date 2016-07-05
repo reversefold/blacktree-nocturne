@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import <QuartzCore/CoreImage.h>
 #import "CGSPrivate.h"
 
 @interface QSCIFilterWindow : NSWindow {
